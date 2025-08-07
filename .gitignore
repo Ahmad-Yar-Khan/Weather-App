@@ -1,0 +1,17 @@
+backend/node_modules/
+frontend/node_modules/
+
+backend/.env
+frontend/.env
+
+# Ignore build folders
+frontend/build/
+frontend/dist/
+backend/dist/
+
+# Ignore log files
+*.log
+
+# Ignore IDE/editor folders
+.vscode/
+.idea/
